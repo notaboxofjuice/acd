@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Dev\\GameDev\\Epic\\acd\\acd\\Source\\acd\\acd.Build.cs",
+		"C:\\Dev\\GameDev\\Epic\\acd\\acd\\Source\\acd.Target.cs",
+		"C:\\Dev\\GameDev\\Epic\\acd\\acd\\Source\\acdEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

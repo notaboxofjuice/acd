@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\acd.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\acd.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\acdEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\acd">
+      <UniqueIdentifier>{B7FFE8D0-C700-3462-8D06-7CB0F445074F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\acd\acd.Build.cs">
+      <Filter>Source\acd</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\acd\acd.cpp">
+      <Filter>Source\acd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\acd\acd.h">
+      <Filter>Source\acd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\acd\acdCharacter.cpp">
+      <Filter>Source\acd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\acd\acdCharacter.h">
+      <Filter>Source\acd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\acd\acdGameMode.cpp">
+      <Filter>Source\acd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\acd\acdGameMode.h">
+      <Filter>Source\acd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\acd\acdPickUpComponent.cpp">
+      <Filter>Source\acd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\acd\acdPickUpComponent.h">
+      <Filter>Source\acd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\acd\acdProjectile.cpp">
+      <Filter>Source\acd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\acd\acdProjectile.h">
+      <Filter>Source\acd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\acd\acdWeaponComponent.cpp">
+      <Filter>Source\acd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\acd\acdWeaponComponent.h">
+      <Filter>Source\acd</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

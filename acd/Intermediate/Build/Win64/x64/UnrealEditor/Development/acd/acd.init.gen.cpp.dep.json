@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\dev\\gamedev\\epic\\acd\\acd\\intermediate\\build\\win64\\unrealeditor\\inc\\acd\\uht\\acd.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\dev\\gamedev\\epic\\acd\\acd\\intermediate\\build\\win64\\x64\\acdeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\dev\\gamedev\\epic\\acd\\acd\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\acd\\definitions.acd.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

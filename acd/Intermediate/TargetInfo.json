@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "acd",
+			"Path": "..\\Source\\acd.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "acdEditor",
+			"Path": "..\\Source\\acdEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
